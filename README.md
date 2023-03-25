@@ -1,4 +1,9 @@
-### Hi there 👋
+### Merhaba Ben Mustafa 👋
+Futbol Oynamayı Severim 
+Ercan Kıvrak İlköğretimokulunda Okuyorum
+
+
+
 
 <!--
 **mustafaaa10/mustafaaa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
